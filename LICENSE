@@ -1,0 +1,38 @@
+Copyright (c) Monotrix 2021-
+(Credit to Kritanta for the bulk of this license)
+
+ML v1
+
+The following statement, within quotation marks, is a non-binding summation of the following license:
+
+"
+Clauses:
+1. If forking/repacking this project, include this exact LICENSE file.
+2. If using a file from this project in a different project, leave the header comment in.
+3. Don't take a snippet/snippets of code from this project and relicense it unless you've added it to a larger project.
+4. If using a snippet/snippets of code from this project in a larger project, include some kind of credit and direction to the repository/file in which the snippet/snippets is from.
+5. If you repackage/fork this project, indicate so in the name and description of the project to a reasonable extent.
+
+Exemptions:
+1. If using a file from this project in a different project, that project is by no means bound by this license.
+2. Submodules of this project are not bound by this license, unless this license is included in said submodule.
+"
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of substantial portions of the source code of this project must retain the above copyright notice, this list of conditions and the following disclaimer. 
+
+2. Redistributions of source code in any capacity must maintain the copyright notice within individual files. this does not apply to snippets of code.
+
+3. Individual snippets of code alone should not be relicensed unless they do not make up a substantial portion of the project.
+
+4. Redistributions of substantial portions of the source code of this project must differentiate themselves from this project within their name and within extended descriptions of the project. 
+
+4a. Modified redistributions of substantial portions of the source code or compiled binary must indicate they have been modified.
+
+
+The following are exempt from this license:
+
+1. Projects, binaries, or any packages generated through this program are not considered derivative works, and are not bound by this license.
+
+2. Submodules of this project are not bound by this license unless explicitly stated.
