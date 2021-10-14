@@ -9,7 +9,7 @@ Destiny has been tested on Linux, macOS and iOS.
 # How to install
 A key point of Destiny is that it doesn't at all depend on Oh My ZSH. This means that you can just drop it into your .zshrc and it will work out of the box. You can also install it this way with Oh My ZSH. The way I'd recommend installing Destiny for any use case is by running the following commands:
 ```
-git clone https://github.com/ja1dan/Destiny ~/.destiny && echo "source ~/.destiny/destiny" >> ~/.zshrc && source ~/.zshrc
+git clone https://github.com/ja1dan/Destiny ~/.destiny && echo "source ~/.destiny/destiny.zsh" >> ~/.zshrc && source ~/.zshrc
 ```
 
 # Customization
