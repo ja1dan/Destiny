@@ -59,6 +59,8 @@ precmd() {
     if [ -n "$TTY" ] && [ $timer_show -ge ${ZSH_COMMAND_TIME_MIN_SECONDS:-3} ]; then
       export ZSH_COMMAND_TIME="$timer_show"
       zsh_command_time
+    else
+      export RPROMPT='%F{$DESTINY_GIT_INFO_COLOR}${vcs_info_msg_0_}%f'
     fi
     unset timer
   fi
